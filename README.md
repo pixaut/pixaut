@@ -9,7 +9,7 @@
     </td>
     <td>
       <p align="left">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pixaut&layout=compact&theme=material-palenight" alt="pixaut's most used     languages" width="410" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pixaut&layout=compact&theme=material-palenight" alt="pixaut's most used languages" width="410"/>
       </p>
     </td>
   </tr>
