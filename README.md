@@ -1,3 +1,15 @@
+<h2 align="left">
+  Connections:
+</h2>
+
+<a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="50px" style="margin-right: 10px;" /></a>
+<a href="https://discord.com/users/660767046908510218"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/discord.png" alt="drgnbon | Discord" width="50px" style="margin-right: 10px;" /></a>
+
+
+
+
+
+
 
 <h2 align="left">
   Pixaut's main stats:
