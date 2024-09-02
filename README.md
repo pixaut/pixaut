@@ -1,4 +1,7 @@
 
+<h2 align="left">
+  Pixaut's main stats:
+</h2>
 
 <table>
   <tr>
