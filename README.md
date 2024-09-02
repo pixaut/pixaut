@@ -20,6 +20,6 @@
 
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pixaut&theme=material-palenight" alt="pixaut's GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pixaut&theme=darkhub" alt="pixaut's GitHub trophies" />
 </p>
 
