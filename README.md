@@ -4,7 +4,7 @@
   <tr>
     <td>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=pixaut&show_icons=true&theme=material-palenight">
+        <img src="https://github-readme-stats.vercel.app/api?username=pixaut&show_icons=true&theme=material-palenight" width="400">
       </p>
     </td>
     <td>
