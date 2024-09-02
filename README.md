@@ -5,11 +5,12 @@
 <a href="https://t.me/pixaut0"><img align="left" src="https://raw.githubusercontent.com/pixaut/pixaut/main/src/telegram.png" alt="pixaut | Telegram" width="50px" style="margin-right: 10px;" /></a>
 <a href="https://discord.com/users/538441284793270292"><img align="left" src="https://raw.githubusercontent.com/pixaut/pixaut/main/src/discord.png" alt="pixaut | Discord" width="50px" style="margin-right: 10px;" /></a>
 
-<a>
-  <h2 align="left">
-    Pixaut's main stats:
-  </h2>
-<a/>
+<br>
+
+<h2 align="left">
+  Pixaut's main stats:
+</h2>
+
 
 
 
